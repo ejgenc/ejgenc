@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello Everyone!👋
+
+My name is Eren Janberk Genç. I'm a senior at Boğaziçi University, Turkey. I am really passionate about data visualization and everything related to data. I hope that you'll find something to your liking in my Github!
 
 <!--
 **ejgenc/ejgenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
