@@ -11,7 +11,7 @@ The portfolio repository is where my data analysis and visualization projects ar
 
 I'm always looking for feedback. If you have anything to share with me or any questions to ask, you can contact me using the following:
 
-* **E-mail:** [**ejgenc@gmail.com**](#)
+* **E-mail:** [**janberk.genc@boun.edu.tr**](#)
 * **Twitter:** [**@ejgenc**](https://twitter.com/ejgenc)
 * **Medium:** [**Eren Janberk Genç**](https://medium.com/@ejgenc)
 
