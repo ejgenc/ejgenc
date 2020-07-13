@@ -11,8 +11,8 @@ The portfolio repository is where my data analysis and visualization projects ar
 
 I'm always looking for feedback. If you have anything to share with me or any questions to ask, you can contact me using the following:
 
-* **[E-mail:]**()
-* **[Twitter:]**()
+* **[E-mail:]**(#)
+* **[Twitter:]**(#)
 
 **I hope that you'll find something to your liking in my Github!**
 
