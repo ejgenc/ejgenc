@@ -1,4 +1,4 @@
-# Hello Everyone!👋
+# Hey!👋
 
 ## Who am i?
 My name is **Eren Janberk Genç**. I was born and raised in Istanbul, Turkey. I still reside there and I'm currently studying my last year at Boğaziçi University.
