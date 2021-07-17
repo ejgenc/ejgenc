@@ -1,19 +1,5 @@
-# Hey!👋
+<p><pre align="center">
+<strong>Eren Janberk Genç /</strong><a href="https://github.com/ejgenc"> GitHub</a> /<a href="https://ejgenc.github.io/portfolio/"> Portfolio</a> (temp.) / <a href = "https://ejgenc.medium.com/">Medium</a> /<a href = "https://www.linkedin.com/in/eren-janberk-gen%C3%A7/"> LinkedIn</a>
+</pre></p>
 
-## Who am i?
-My name is **Eren Janberk Genç**. I was born and raised in Istanbul, Turkey. I still reside there and I'm currently studying my last year at Boğaziçi University.
-
-## What do i work on?
-I am really passionate about **engaging with open data through data visualization and storytelling.** Visual representations of data in all forms captivate and interest me. I'm trying to gradually get better at data analysis, visualization and storytelling. I try to do all my projects in both English and Turkish.
-
-## Where can you find my work?
-The portfolio repository is where my data analysis and visualization projects are housed temporarily while i am working on a better version. To see the GitHub pages version of my portfolio, **please follow [**this link.**](https://ejgenc.github.io/portfolio/)
-
-I'm always looking for feedback. If you have anything to share with me or any questions to ask, you can contact me using the following:
-
-* **E-mail:** [**janberk.genc@boun.edu.tr**](#)
-* **Twitter:** [**@ejgenc**](https://twitter.com/ejgenc)
-* **Medium:** [**Eren Janberk Genç**](https://medium.com/@ejgenc)
-
-**I hope that you'll find something to your liking in my Github!**
-
+>Done with BA Translation & Interpreting Studies <a href="https://transint.boun.edu.tr/">@Boğaziçi University</a>, now starting MSc Digital Humanities <a href="https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_52330579.htm#activetab=loopbaan">@KU Leuven</a>. Passionate about visual (or multimodal) representations of data in all forms. Tries to create compelling data-driven narratives fed by open data in his free time. Interested in open and reproducible data analysis, interactive data visualizations, data storytelling and accessibility.
