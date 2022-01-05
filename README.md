@@ -12,4 +12,4 @@
 - **[An Exercise in Open Data: Mapping Istanbul’s Health Services](https://github.com/ejgenc/data-analysis_istanbul-health-services-Map)** -- Using open data, I try to see whether or not there is an underlying inequality in the way Istanbul's health services are distributed.
 
 ### Creative Coding
-- **[Color Blooms](https://github.com/ejgenc/color-blooms)**(WIP) -- An interactive creative coding project where the user can play with the given parameters and randomization to create a canvas of blooming colors. Currently hosted on [GitHub Pages.](https://ejgenc.github.io/color-blooms/)
+- **[Color Blooms](https://github.com/ejgenc/color-blooms)**(WIP) -- An interactive creative coding project where the user can play with the given parameters and randomization to create a canvas of blooming colors. Currently hosted on [here.](https://ejgenc.github.io/color-blooms/)
