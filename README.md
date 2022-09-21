@@ -1,8 +1,8 @@
 <p><pre align="center">
-<strong>Eren Janberk Genç /</strong><a href="https://github.com/ejgenc"> GitHub</a> /<a href="https://github.com/ejgenc/viz-portfolio"> Visualization Portfolio</a> (temp.) / <a href = "https://ejgenc.medium.com/">Medium</a> /<a href = "https://www.linkedin.com/in/eren-janberk-gen%C3%A7/"> LinkedIn</a> /
+<strong>Eren Janberk Genç /</strong><a href="https://github.com/ejgenc"> GitHub</a> /<a href="https://github.com/ejgenc/viz-portfolio"> Visualization Portfolio</a> (temp.) /<a href = "https://www.linkedin.com/in/eren-janberk-gen%C3%A7/"> LinkedIn</a> /
 </pre></p>
 
->Done with BA Translation & Interpreting Studies <a href="https://transint.boun.edu.tr/">@Boğaziçi University</a>, now studying MSc Digital Humanities <a href="https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_52330579.htm#activetab=loopbaan">@KU Leuven</a>. Passionate about data in all forms. Interested in enabling and supporting open, robust and reproducible data analysis pipelines. I also dabble in generative art in my free time.
+>Done with MSc Digital Humanities <a href="https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_52330579.htm#activetab=loopbaan">@KU Leuven</a>. Passionate about data in all forms.
 
 <img src="https://github.com/ejgenc/ejgenc/blob/master/banner.png" width="100%">
 
