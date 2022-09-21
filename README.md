@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Eren Janberk Genç /</strong><a href="https://github.com/ejgenc"> GitHub</a> /<a href="https://github.com/ejgenc/viz-portfolio"> Data visualizations</a>/<a href = "https://www.linkedin.com/in/eren-janberk-gen%C3%A7/"> LinkedIn</a> /
+<strong>Eren Janberk Genç /</strong><a href="https://github.com/ejgenc"> GitHub</a> /<a href="https://github.com/ejgenc/viz-portfolio"> Data visualizations</a> /<a href = "https://www.linkedin.com/in/eren-janberk-gen%C3%A7/"> LinkedIn</a> /
 </pre></p>
 
 >Done with MSc Digital Humanities <a href="https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_52330579.htm#activetab=loopbaan">@KU Leuven</a>. Passionate about data in all forms.
