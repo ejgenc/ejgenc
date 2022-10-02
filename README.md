@@ -2,7 +2,7 @@
 <strong>Eren Janberk Genç /</strong><a href="https://github.com/ejgenc"> GitHub</a> /<a href="https://github.com/ejgenc/viz-portfolio"> Data visualizations</a> /<a href = "https://www.linkedin.com/in/eren-janberk-gen%C3%A7/"> LinkedIn</a> /
 </pre></p>
 
->Done with MSc Digital Humanities <a href="https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_52330579.htm#activetab=loopbaan">@KU Leuven</a>. Passionate about data in all forms.
+>Programmer <a href="https://www.euroclear.com/en.html">@Euroclear</a>. Passionate about data in all forms.
 
 <img src="https://github.com/ejgenc/ejgenc/blob/master/banner.png" width="100%">
 
